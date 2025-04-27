@@ -37,6 +37,8 @@ int main()
 ```
 ## OUTPUT
 
+![Screenshot 2025-04-27 104345](https://github.com/user-attachments/assets/2f5252e5-2a2e-4523-95bd-6f8e7440cc68)
+
 
 ## RESULT
 
